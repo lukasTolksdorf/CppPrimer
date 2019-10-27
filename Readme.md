@@ -89,8 +89,8 @@ running it.
  * C++ Weekly:
    * [Important part of C++98](https://www.youtube.com/watch?v=78Y_LRZPVRg)
    * [Important part of C++11](https://www.youtube.com/watch?v=D5n6xMUKU3A)
-   * [Important part of C++14] (https://www.youtube.com/watch?v=mXxNvaEdNHI)
-   * [Important part of C++17] (https://www.youtube.com/watch?v=QpFjOlzg1r4)
+   * [Important part of C++14](https://www.youtube.com/watch?v=mXxNvaEdNHI)
+   * [Important part of C++17](https://www.youtube.com/watch?v=QpFjOlzg1r4)
  * to be continued
 
 
